@@ -1,6 +1,7 @@
 # mm_projects
 
-myprojects on myhomelab
-version 0.0.1 ...
 
+Here are some of my personal projects.
+This is a way to document and share them with the community.
+Cheers 
 
