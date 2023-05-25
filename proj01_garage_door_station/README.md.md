@@ -31,11 +31,11 @@ To make it a clean solution, I've used my 3D printer to design 2 parts for this 
 
 All wires used to connect the Arduino ports to the connectors are made with silicone, which make the final result much better.
 
-![|600](_assets/proj01_mainboard.png)
+![image](https://github.com/mmiller1br/mm_projects/assets/32887571/7003a9f9-9f67-45a9-b04f-37178a98c973)
 
 And this is how the servo motor works when you ask Alexa to OPEN or CLOSE your garage. It's my version of [SwitchBot Bot](https://ca.switch-bot.com/collections/all/products/switchbot-bot), but homemade ;)
 
-![](_assets/proj01_button.gif)
+![proj01_button](https://github.com/mmiller1br/mm_projects/assets/32887571/24ac0c09-0d6c-4017-9777-d695ac67bc46)
 
 ## Code comments:
 
@@ -142,6 +142,6 @@ void push_button() {
 
 ## Grafana dashboard:
 
-![](_assets/proj01_dashboard.png)
+![image](https://github.com/mmiller1br/mm_projects/assets/32887571/6cbec1b1-0bc0-4fe0-9d77-db08e9bd2ad7)
 
 This dashboard can be used directlly on Grafana, or in my case, on HomeAssistant, where I have visibility about Temp/Humid on differentes areas in my house. SENSOR1 is information from my basement, SENSOR2 and SENSOR3 are info from this project, with information from my garage (indoor = AHT10) and outdoor (AM2301), respectively.
