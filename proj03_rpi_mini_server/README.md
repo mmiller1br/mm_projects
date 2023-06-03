@@ -1,9 +1,10 @@
 
- ![[_assets/rpi_server.gif|]]
+![rpi_server](https://github.com/mmiller1br/mm_projects/assets/32887571/559b215e-a1b6-4b6a-8e24-96157966a5ea)
+
 
 ## RPI Server Pinout
 
-![|500](_assets/raspberrypi_pinout.png)
+<img src="https://github.com/mmiller1br/mm_projects/assets/32887571/0ecdde58-aee0-4d27-9108-8fafc47352d3" width="400">
 
 **Power IN (from the UPS module):** 
 - pin2 (5V PWR) 
