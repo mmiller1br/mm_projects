@@ -2,15 +2,15 @@
 
 #arduino #wii #robot
 
-![[proj04_gif.gif]]
+!![proj04_gif](https://github.com/mmiller1br/mm_projects/assets/32887571/ffbe5fee-d6e8-452c-b49a-ada74a2ed1d2)
 
 ## Description
 
 I've got this ROBOTIC ARM at Amazon 1 or 2 years ago and it cost under 30 dollars. ​At the beginning it was funny ... a robotic arm controlled by a console with a lot of pieces, each one controlling one of the 5 servo motors. Below is an example how was the original console:
 
 ​
+![proj04_image1](https://github.com/mmiller1br/mm_projects/assets/32887571/27e514ea-d5bd-4fff-859c-829c4f25047f)
 
-![](_assets/proj04_image1.jpg)
 
 After long 10 minutes, I started thinking how to improve this robotic-arm, how to improve its movements, how to make it more realistic.
 
