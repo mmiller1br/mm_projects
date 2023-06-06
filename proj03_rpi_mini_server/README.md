@@ -1,4 +1,6 @@
 
+# Raspberry-PI Server with UPS Module + Power Button + Stats OLED Display
+
 ![rpi_server](https://github.com/mmiller1br/mm_projects/assets/32887571/559b215e-a1b6-4b6a-8e24-96157966a5ea)
 
 
