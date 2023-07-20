@@ -1,4 +1,4 @@
-![[proj06_image1.png]]
+![proj06_image1](https://github.com/mmiller1br/mm_projects/assets/32887571/3410d4c5-7079-410f-9d1f-5c8c5a22f3e1)
 
 
 # Network Automation with Voice Recognition
@@ -73,12 +73,12 @@ If you need a basic tutorial to create your first Action, check this Youtube her
 ​
 For your reference, in my LAB I created the following "Training Phrases":
 
-![[proj06_image2.png]]
+![proj06_image2](https://github.com/mmiller1br/mm_projects/assets/32887571/4361a533-0b01-45f8-83ac-c9ee81d2955f)
 
 
 These are the phrases recognized by my Action. As you can see, numbers are recognized as variables, and you can use it as part of your responses for you Google Assistant. For your reference, below you can see the phrases I've used for responses:
 
-![[proj06_image3.png]]
+![proj06_image3](https://github.com/mmiller1br/mm_projects/assets/32887571/4abf4ff0-859c-4148-a9b1-48b71fab12b2)
 
 
 As you can see, the value $number is returned as part of my list of Responses.
