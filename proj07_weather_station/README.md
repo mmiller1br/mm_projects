@@ -6,7 +6,8 @@
 
 ## Description:
 
-![](_assets/proj07_gif.gif)
+![proj07_gif](https://github.com/mmiller1br/mm_projects/assets/32887571/516ac97b-383c-4f97-8691-9268514e87ad)
+
 
 This is an Arduino project - in this case an ESP32 - to create an indoor weather station (can be outdoor as well, if you change the sensor - see my project 01). 
 
