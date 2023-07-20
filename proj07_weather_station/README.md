@@ -192,7 +192,7 @@ Point sensor("stations");
 
 Finally, with all values on your Database, I'm using Grafana to create a Dashboard and present this information on my HomeAssistant. I'm also using the values from my InfluxDB database to create entities on HomeAssistant and present this using any card available.  Example of my dashboard here:
 
-![](_assets/proj01_dashboard.png)
+![image](https://github.com/mmiller1br/mm_projects/assets/32887571/6cbec1b1-0bc0-4fe0-9d77-db08e9bd2ad7)
 
 
 ## Video
