@@ -1,7 +1,7 @@
 # Arduino Weather Station
 🌡️💦📊💻
 
-#arduino #sensor #weather #esp32
+#arduino #sensor #weather #esp32 #ntp
 
 
 ## Description:
@@ -199,3 +199,13 @@ Finally, with all values on your Database, I'm using Grafana to create a Dashboa
 
 📽️ https://www.youtube.com/shorts/u7VZ8gYpaBI
 
+
+## Weather Station V2 🆕
+
+In this version, I decided to add one more piece of information: a digital clock synchronized with an external NTP server. So now my display shows: temperature, humidity and current time. To achieve this, I'm using a NTP_Client library to get the current time.
+
+```
+#include <NTPClient.h>
+```
+
+Details on proj07_v1 file.
