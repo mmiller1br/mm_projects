@@ -1,4 +1,4 @@
-When migrating to production (ESP32-CAM board), I had to do some changes in the code to make it work. Because there are 2 devices connected to the same I2C BUS, I had to play with the parameter ==frequency== in order to make it works. 
+When migrating to production (ESP32-CAM board), I had to do some changes in the code to make it work. Because there are 2 devices connected to the same I2C BUS, I had to play with the parameter **frequency** in order to make it works. 
 - high frequency (800Mhz) was not working
 - low frequency (50Mhz by default), was working, but with an error message in the LOGs ("Component display took a long time for an operation")
 - the value of 400MHz was one that worked perfect for me
