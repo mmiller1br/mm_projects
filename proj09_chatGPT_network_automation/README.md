@@ -1,5 +1,5 @@
 
-## Network Automation with chatGPT
+# Network Automation with chatGPT
 
 
 We all know #ChatGPT is an AI developed by #OpenAI, built on a large language model (LLM). It’s great at handling and generating text in a way that feels like natural conversation. Some of the most useful things you can do with ChatGPT include:
