@@ -2,14 +2,13 @@
 
 #homelab #minirack #3dprinter #network
 
-
-![](assets/20250703_193742_image.png)
+![](assets/20250703_193247_myrack1.jpg)
 
 ## Introduction:
 
 This is a remix of one of the many 10" mini rack projects available. Actually this is my version 2 🚀️ , once the V1 was not robust enough to have handles, and I wasn't happy with that version. This is the 3rd or 4th generation, as it is a remix of a remis of another remix ...
 
-My target was to create a rack to organize all my stuf, using real network rack nuts and rack studs. That is the reason to use square holes. 
+My target was to create a rack to organize all my stuf, using real network rack nuts and rack studs. That is the reason to use square holes.
 
 I printed all gray components used on the frame with PETG, and almost all the panels and the handle using black PLA. For the side panels, I decided to use acrylic sheets, leftover from my 3d printer enclosure.
 
@@ -40,7 +39,7 @@ Next I printed 6 side panels.
 
 This was enough to assembly the 2 sides of my rack: left and right. Check the picture with both sides before installing all devices.
 
-![](assets/20250703_195159_myrack3.jpg)  
+![](assets/20250703_195159_myrack3.jpg)
 
 ![](assets/20250703_195214_myrack2.jpg)
 
@@ -51,7 +50,6 @@ Finally, I moved the front and back panels from my old rack to the new rack: eth
 And last but not least, I cut 4 pieces of acrylic (2 x RU each) and install them as side panels.
 
 And for the cherry on the top, LED Strips ... why not, heh ?! 😄
-
 
 ![](assets/20250703_195310_myrack4.jpg)
 
@@ -66,7 +64,7 @@ What I have installed in this rack, so far, bottom to top:
 - blanck panel (it's gonna have a environment monitor on this panel, soon)
 - patch panel with 10 ports
 
-Behind the rack (not shown in the pictures), attached to the rail, is a power monitor. This is a simple Wifi power monitor that is connected to the UPS where all devices are connected to. This power monitor is connected to my HomeAssistant where I can have data and graph about my Homelab power consumption. ❤️ 
+Behind the rack (not shown in the pictures), attached to the rail, is a power monitor. This is a simple Wifi power monitor that is connected to the UPS where all devices are connected to. This power monitor is connected to my HomeAssistant where I can have data and graph about my Homelab power consumption. ❤️
 
 ### Rack Inside:
 
