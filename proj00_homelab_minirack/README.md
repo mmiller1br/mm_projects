@@ -64,7 +64,13 @@ What I have installed in this rack, so far, bottom to top:
 - blanck panel (it's gonna have a environment monitor on this panel, soon)
 - patch panel with 10 ports
 
-Behind the rack (not shown in the pictures), attached to the rail, is a power monitor. This is a simple Wifi power monitor that is connected to the UPS where all devices are connected to. This power monitor is connected to my HomeAssistant where I can have data and graph about my Homelab power consumption. ❤️
+Behind the rack (not shown in the pictures), attached to the rail, there is a power monitor. This is a simple Wifi power monitor that is connected to the UPS where all devices are connected to. This power monitor is connected to my HomeAssistant where I can have data and graph about my Homelab power consumption. ❤️
+
+And, if you want to have access to the 3D files (STL), here are the links:
+
+1) Printables [here](https://www.printables.com/model/1344769-10-mini-rack-remixhttps:/)
+2) Makerworld [here](https://makerworld.com/en/models/1571368-10-plus-mini-rackhttps:/)
+
 
 ### Rack Inside:
 
