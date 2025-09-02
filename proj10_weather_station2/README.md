@@ -6,7 +6,8 @@
 
 ## Description:
 
-![|300](proj10_gif.gif)
+![proj10_gif](https://github.com/user-attachments/assets/24b7a2e0-2d93-4482-a29a-028591690566)
+
 
 This is an upgrade of my original project with much more information and a much better display.  
 
@@ -53,19 +54,23 @@ For this project, i'm using 4 different pages, that are presented in a loop, whe
 
 - **local temperature and humidity**: this is information from the local sensor attacjed to the ESP32 where this code is running - in my case, my office.
   
-![|300](proj10-img1.jpg)
+![proj10-img1](https://github.com/user-attachments/assets/64ae220f-9976-4231-be4e-3a0edd073bc1)
+
 
 - **clock**: this is information coming from NTP server and it has hour, date and day of the week.
 
-![|300](proj10-img2.jpg)
+![proj10-img2](https://github.com/user-attachments/assets/2b10bb5e-ae7e-4119-901c-0b23c4922e75)
+
 
 - **outdoor temperature**: this information come from an entity on HomeAssistant. I have another ESP32 with an external sensor attached to it, sending this information HA. We can read this information and display as it is directed connected to this esp32.
 
-![|300](proj10-img3.jpg)
+![proj10-img3](https://github.com/user-attachments/assets/dc0d5410-d3eb-4664-8917-b9693da075dc)
+
 
 - **weather forecast**: this is also information from another entity on HomeAssistant. In this case this info comes from an integration responsible for reading this from internet and update the entity. All information here is dynamically update (weather condition, icon, MAX temperature and MIN for the current date).
 
-![|300](proj10-img4.jpg)
+![proj10-img4](https://github.com/user-attachments/assets/d04d6409-e721-4618-8f8a-59d757c4409f)
+
 
 You can see all the code for this project on the file proj10_weather_station2.yml
 
