@@ -89,6 +89,11 @@ what is running inside:
 Because it's a live project, it's always open to new add-ons. For example:
 
 - router is still not here: it's physically in another room
-- top of the rack: still missing something to close it (lid).
-- FAN: not sure if a fan to push hot air from inside the rack to the top, or to the back of the rack
-- temperature/humidity display
+- top of the rack: still missing something to close it (lid). DONE
+- FAN: not sure if a fan to push hot air from inside the rack to the top, or to the back of the rack DONE
+- temperature/humidity display - DONE
+
+Comments: the top of the rack is actually a FAN low, pushing all hot air from inside the rack to the top of the rack.
+This is actually a real solution used in some datacenters using the concept that hot air goes UP, and you place a fan blowing the hot air upwards.
+For the display with TEMP/HUMID, check out my proj11, where I created a solution using ESP32 running SNMP to monitor all these information from my rack.
+
