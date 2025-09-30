@@ -1,7 +1,7 @@
-# Arduino Weather Station 2 - LVGL
+# ESPHome Weather Station 2 - LVGL
 🌡️💦📊💻
 
-#arduino #sensor #weather #esp32 #lvgl #esphome
+#esphome #sensor #weather #esp32 #lvgl
 
 
 ## Description:
