@@ -46,3 +46,5 @@ https://github.com/mmiller1br/esphome-snmp
 <img width="1765" height="1401" alt="Pasted image 20250915163346" src="https://github.com/user-attachments/assets/168ab3f1-5def-4bf7-9b15-d65731fec677" />
 
 
+### Code:
+https://github.com/mmiller1br/mm_projects/blob/main/proj11_environment_monitor/proj11_network_rack_monitor
