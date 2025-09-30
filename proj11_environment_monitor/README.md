@@ -4,8 +4,8 @@
 #network #sensor #esp32 #lvgl #esphome #snmp
 
 
+![Imagem do WhatsApp de 2025-09-30 à(s) 11 37 22_046c4a26](https://github.com/user-attachments/assets/a042ca93-c8da-46c1-bb54-7593de1919a9)
 
-![[Imagem do Rack1.jpg]]
 
 ### Introduction:
 
@@ -21,15 +21,15 @@ With this solution, now I have information about TEMPERATURE and HUMIDITY on my 
 ### 3 Different Ways to Monitor
 
 - via the 1RU Module with OLED display: i designed and 3D printed a 1xRU panel to my 10in rack with this OLED display - ESP32 board and sensors are all installed in the back of the panel
-![[rack-monitor-ezgif.com-video-to-gif-converter.gif]]
+![rack-monitor-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/31b7501e-9109-4ba0-a09f-3fd2ee1707ab)
 
 
 - via HomeAssistant Dashboard (we have real-tie and historical information from my sensors)
-![[Pasted image 20250930141828.png]]
+<img width="474" height="410" alt="Pasted image 20250930141828" src="https://github.com/user-attachments/assets/7b2b07ea-9f5b-492e-855f-4ed09522874e" />
 
 
 - via LibreNMS (SNMP protocol network management tool). I configured my LibreNMS to read the monitor these values from my rack using SNMP. Here are the graphs.
-![[Pasted image 20250930121353.png]]
+<img width="494" height="662" alt="Pasted image 20250930121353" src="https://github.com/user-attachments/assets/4d574faf-b4a7-4c5a-aee8-1ffad36315d0" />
 
 
 ### ESPHome SNMP component:
@@ -39,5 +39,6 @@ https://github.com/mmiller1br/esphome-snmp
 
 
 ### Diagram:
-![[Pasted image 20250915163346.png]]
+<img width="1765" height="1401" alt="Pasted image 20250915163346" src="https://github.com/user-attachments/assets/168ab3f1-5def-4bf7-9b15-d65731fec677" />
+
 
