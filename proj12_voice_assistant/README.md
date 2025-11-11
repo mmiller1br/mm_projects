@@ -6,12 +6,15 @@ Runs on an ESP32-S3 hardware + ESPHome. Can control everything on your HomeAssis
 
 It's still a PROTOTYPE, so lots of room for improvement. Below is everything I've used to create this voice assistant. Happy to receive comments to improve it.
 
-![[Pasted image 20251105102634.png]]
+<img width="520" height="435" alt="image" src="https://github.com/user-attachments/assets/9ce04d25-1caa-479f-b41e-228b614ef413" />
+
 
 ## Diagram
 
 This is a diagram I've used for this project:
-![[circuit_image.png]]
+
+<img width="523" height="354" alt="image" src="https://github.com/user-attachments/assets/a03bbe66-8523-4691-8c01-ad1e9cf5656e" />
+
 https://app.cirkitdesigner.com/project/23d87c44-6578-4a26-a7a3-a77ac740e9cb
 
 ## List of components:
@@ -359,7 +362,8 @@ What you'll find here is how I configured the Voice Assistant settings, as well 
 
 1) **Voice Assistant integration**: click on Settings (left panel) and then on Voice Assistant. This is how I created my assistant
 
-![[Pasted image 20251110192321.png]]
+<img width="452" height="911" alt="Pasted image 20251110192321" src="https://github.com/user-attachments/assets/26bd4f4d-3b2f-4f8d-bcf4-9d420bcd630b" />
+
 
 For conversation agent, I'm using HomeAssistant.
 
@@ -374,11 +378,16 @@ And of course give it a name: "esp32-s3" in my case.
 
 2) ESP-HOME integration: here is where you select the Voice Assistant created previously for your ESP32. You need to go to Settings - Devices and Services - ESPHome. Then you'll see a list of ESPs already integrated with your ESPHome. Click the name of yours (mine is esp03-voice-assistant)
 
-![[Pasted image 20251110192231.png]]
+<img width="1497" height="1837" alt="Pasted image 20251110192231" src="https://github.com/user-attachments/assets/a75c9e9d-2894-49d2-ac6c-47ce1bda35e8" />
+
 
 Here, if everything was already created successfully, all you need to do is associate your Voice Assistant ("esp32-s3") to your ESPHome project. Now you can test it... :D 
 
-![200](video5.mp4)
+
+
+https://github.com/user-attachments/assets/b14548ee-9f88-4f26-b7d0-1814624785ff
+
+
 
 ## 3D Files
 
